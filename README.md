@@ -4,6 +4,7 @@
 ## 📋 สารบัญ
 - [🎯 วัตถุประสงค์หลักสูตร](#-วัตถุประสงค์หลักสูตร)
 - [👥 คุณสมบัติผู้อบรม](#-คุณสมบัติผู้อบรม)
+- [🚀 เริ่มต้นใช้งาน](#-เริ่มต้นใช้งาน)
 - [📚 โครงสร้างหลักสูตรและ Labs](#-โครงสร้างหลักสูตรและ-labs)
   - [📁 วันที่ 1: Essential Data Analytics & Basic Python](#-วันที่-1-essential-data-analytics--basic-python)
   - [📁 วันที่ 2: Data Profiling & Preparation](#-วันที่-2-data-profiling--preparation)
@@ -14,6 +15,7 @@
 - [📖 Case Study: Lending Club](#-case-study-lending-club)
 - [🚀 ก่อนเริ่มหลักสูตร](#-ก่อนเริ่มหลักสูตร)
 - [⏱️ ระยะเวลาหลักสูตร](#️-ระยะเวลาหลักสูตร)
+- [📋 การประเมินผล](#-การประเมินผล)
 
 ---
 
@@ -31,6 +33,12 @@
 
 ---
 
+## 🚀 เริ่มต้นใช้งาน
+### การเชื่อมต่อ Google Drive และโหลดข้อมูล
+- [00 Setup Google Drive Data Connection](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/00_Setup_Google_Drive_Data_Connection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/00_Setup_Google_Drive_Data_Connection.ipynb)
+
+---
+
 ## 📚 โครงสร้างหลักสูตรและ Labs
 
 ### 📁 วันที่ 1: Essential Data Analytics & Basic Python
@@ -44,6 +52,7 @@
 - [01c Diagnostic Analytics](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01c_Diagnostic_Analytics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01c_Diagnostic_Analytics.ipynb)
 - [01d Predictive Analytics ความรู้เบื้องต้น](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01d_Predictive_Analytics_ความรู้เบื้องต้น.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01d_Predictive_Analytics_ความรู้เบื้องต้น.ipynb)
 - [01e เทคนิคการทำนาย Linear Trend](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01e_เทคนิคการทำนาย_Linear_Trend.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01e_เทคนิคการทำนาย_Linear_Trend.ipynb)
+- [01f Python Basics with Real Data](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01f_Python_Basics_with_Real_Data.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01f_Python_Basics_with_Real_Data.ipynb)
 
 ---
 
@@ -88,12 +97,14 @@
 
 ### 📁 datasets
 - **LoanStats_web_14422.csv** (ข้อมูลหลักสำหรับเรียน) - ข้อมูลสินเชื่อ Lending Club
+- [COLAB Setup Guide](./datasets/COLAB_SETUP_GUIDE.md) - คู่มือการตั้งค่า Google Colab
 - ข้อมูลตัวอย่างสำหรับฝึกหัด
 
 ### 📁 resources  
 - เอกสารอ้างอิง
 - [Data Profiling Checklist](./02_Data_Profiling_Preparation/data_profiling_checklist.md)
 - [Common Data Issues](./02_Data_Profiling_Preparation/common_data_issues.md)
+- [LAB Templates](./02_Data_Profiling_Preparation/LAB_TEMPLATES.md)
 - [ML Cheatsheet](./03_Predictive_Analytics_Machine_Learning/ml_cheatsheet.md)
 
 ### 📁 solutions
@@ -131,6 +142,7 @@
 2. ทำความคุ้นเคยกับ **Google Colab interface**
 3. Download ข้อมูล **LoanStats_web_14422.csv** ไปยัง Google Drive
 4. ติดตั้ง Google Drive app บนมือถือ (สำหรับอัปโหลดไฟล์)
+5. รัน [Setup Notebook](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/00_Setup_Google_Drive_Data_Connection.ipynb) เพื่อเชื่อมต่อ Drive
 
 ## ⏱️ ระยะเวลาหลักสูตร
 - **แบบเข้มข้น**: 3 วัน (24 ชั่วโมง)
@@ -146,6 +158,27 @@
 - **Posttest** (5%) - ความรู้หลังเรียน
 
 ### เกณฑ์การผ่าน: คะแนนรวม ≥ 70% และเข้าร่วม Lab ≥ 80%
+
+---
+
+## 💡 เคล็ดลับการเรียนรู้
+- **เริ่มต้น**: รัน Setup Notebook ก่อนเริ่มเรียน
+- **ปฏิบัติ**: ทำ Lab ทุกตัวตามลำดับ
+- **ทำความเข้าใจ**: อย่าเพียงแค่ copy-paste โค้ด
+- **ทดลอง**: ลองเปลี่ยนแปลงพารามิเตอร์ดู
+- **บันทึก**: จดสิ่งที่เรียนรู้ใหม่ๆ
+- **อ้างอิง**: ใช้ Cheat sheets เมื่อต้องการ
+
+---
+
+## 🎯 Learning Outcomes
+หลังจบหลักสูตร ผู้เรียนจะสามารถ:
+- ✅ ใช้ Python ในการวิเคราะห์ข้อมูลเบื้องต้น
+- ✅ ทำ Data Profiling และ Data Cleaning
+- ✅ สร้าง Visualization ที่มีประสิทธิภาพ
+- ✅ สร้าง Machine Learning Models พื้นฐาน
+- ✅ ประเมินและเปรียบเทียบ Model
+- ✅ ประยุกต์ใช้กับข้อมูลธุรกิจจริง
 
 ---
 
