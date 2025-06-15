@@ -36,7 +36,9 @@
 
 ## 🚀 เริ่มต้นใช้งาน
 ### การเชื่อมต่อ Google Drive และโหลดข้อมูล
-- <a href="https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/00_Setup_Google_Drive_Data_Connection.ipynb" target="_blank">00 Setup Google Drive Data Connection</a> <a href="https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/00_Setup_Google_Drive_Data_Connection.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+> 💡 **เคล็ดลับ**: กดปุ่ม **Ctrl+Click** (Windows) หรือ **Cmd+Click** (Mac) เพื่อเปิดลิงค์ใน tab ใหม่
+
+- [00 Setup Google Drive Data Connection](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/00_Setup_Google_Drive_Data_Connection.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/00_Setup_Google_Drive_Data_Connection.ipynb)
 
 ---
 
@@ -46,8 +48,8 @@
 *ระยะเวลา: 8 ชั่วโมง*
 
 #### 🌅 เช้า (4 ชั่วโมง)
-- <a href="https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01a_Data_Analytics_คืออะไร.ipynb" target="_blank">01a Data Analytics คืออะไร</a> <a href="https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01a_Data_Analytics_คืออะไร.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
-- <a href="https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01b_Descriptive_Analytics.ipynb" target="_blank">01b Descriptive Analytics</a> <a href="https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01b_Descriptive_Analytics.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
+- [01a Data Analytics คืออะไร](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01a_Data_Analytics_คืออะไร.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01a_Data_Analytics_คืออะไร.ipynb)
+- [01b Descriptive Analytics](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01b_Descriptive_Analytics.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01b_Descriptive_Analytics.ipynb)
 
 #### 🌆 บ่าย (4 ชั่วโมง)
 - <a href="https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01c_Diagnostic_Analytics.ipynb" target="_blank">01c Diagnostic Analytics</a> <a href="https://colab.research.google.com/github/amornpan/NT_Python_for_Data_Analytics/blob/master/01_Essential_Data_Analytics_Basic_Python/01c_Diagnostic_Analytics.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"></a>
@@ -197,6 +199,59 @@
 - **Pretest** (5%) - ความรู้พื้นฐาน
 - **Lab Exercises** (40%) - การปฏิบัติในแต่ละ session  
 - **Workshops** (35%) - การทำงานกับข้อมูลจริง
+- **Final Project** (15%) - โปรเจคสุดท้าย
+- **Posttest** (5%) - ความรู้หลังเรียน
+
+### เกณฑ์การผ่าน: คะแนนรวม ≥ 70% และเข้าร่วม Lab ≥ 80%
+
+---
+
+## 💡 เคล็ดลับการเรียนรู้
+- **เริ่มต้น**: รัน Setup Notebook ก่อนเริ่มเรียน
+- **เข้าใจธุรกิจ**: อ่าน Lending Club Guide ก่อนลงมือปฏิบัติ
+- **ปฏิบัติ**: ทำ Lab ทุกตัวตามลำดับ
+- **ทำความเข้าใจ**: อย่าเพียงแค่ copy-paste โค้ด
+- **ทดลอง**: ลองเปลี่ยนแปลงพารามิเตอร์ดู
+- **บันทึก**: จดสิ่งที่เรียนรู้ใหม่ๆ
+- **อ้างอิง**: ใช้ Cheat sheets เมื่อต้องการ
+- **เชื่อมโยง**: ใช้ Business Questions ในคู่มือประกอบการเรียน
+
+---
+
+## 🎯 Learning Outcomes
+หลังจบหลักสูตร ผู้เรียนจะสามารถ:
+- ✅ ใช้ Python ในการวิเคราะห์ข้อมูลเบื้องต้น
+- ✅ ทำ Data Profiling และ Data Cleaning
+- ✅ สร้าง Visualization ที่มีประสิทธิภาพ
+- ✅ สร้าง Machine Learning Models พื้นฐาน
+- ✅ ประเมินและเปรียบเทียบ Model
+- ✅ ประยุกต์ใช้กับข้อมูลธุรกิจจริง
+- ✅ **ใหม่**: เข้าใจธุรกิจ P2P Lending และประยุกต์ใช้ความรู้กับธุรกิจอื่น
+
+---
+
+## 🆕 อัปเดตใหม่ในเวอร์ชันนี้
+### ✨ **เนื้อหาเพิ่มเติม**
+- 📖 **Lending Club Business Guide** - คู่มือธุรกิจครบชุด 10 ไฟล์
+- 📋 **Data Dictionary** - รายละเอียดตัวแปรครบทั้ง 143 ตัวแปร
+- 🎯 **Business Questions** - โจทย์ธุรกิจสำหรับทุกประเภทการวิเคราะห์
+- 💡 **Case Studies** - ตัวอย่างการประยุกต์ใช้จริง
+- 🏋️ **แบบฝึกหัดเพิ่มเติม** - ฝึกฝนเพิ่มเติมนอกเหนือจาก Lab
+- 📚 **เอกสารอ้างอิง** - Checklists และ Templates สำหรับใช้งานจริง
+
+### 🔧 **ปรับปรุงการใช้งาน**
+- 🔗 **ลิงค์ครบถ้วน** - ทุกไฟล์มีลิงค์ Colab พร้อมใช้งาน
+- 📱 **เข้าถึงง่าย** - จัดเรียงเนื้อหาชัดเจน เข้าใจง่าย
+- 🎯 **เน้นปฏิบัติ** - เชื่อมโยงทฤษฎีกับการปฏิบัติ
+- 💼 **เตรียมงานจริง** - เนื้อหาที่สามารถนำไปใช้งานได้ทันที
+
+---
+
+*รหัสหลักสูตร: **250FDEV01C00***  
+*อัปเดตล่าสุด: มิถุนายน 2567*
+
+> 💡 **หมายเหตุ**: Colab links พร้อมใช้งานแล้ว - คลิก [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)] เพื่อเปิดใน Google Colab  
+> 📖 **ใหม่**: อ่าน [Lending Club Business Guide](./lending_club_guide/README.md) เพื่อเข้าใจบริบทธุรกิจก่อนเริ่มเรียนWorkshops** (35%) - การทำงานกับข้อมูลจริง
 - **Final Project** (15%) - โปรเจคสุดท้าย
 - **Posttest** (5%) - ความรู้หลังเรียน
 
